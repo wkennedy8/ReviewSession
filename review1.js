@@ -19,7 +19,7 @@ const sports = [
 // add the new li to the ul with the class of 'celebrities'
 
 //4. LETS LOOP THROUGH THIS ARRAY AND ADD `goes to wyncode` to EVERYONES NAME
-const firstNames = ['Francesca', 'Erialbania', 'Jorge', 'Ana'];
+const firstNames = ['Katie', 'Hannah', 'William', 'Leo', 'Ernie'];
 const wyncode = 'wyncode';
 
 // 5. Console.log LeBron James from the following object.
